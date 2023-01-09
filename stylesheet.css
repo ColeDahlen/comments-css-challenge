@@ -1,0 +1,49 @@
+#firstComment{
+    color: hsl(240, 53%, 30%);
+
+    /* or */
+    background-color: hsl(0, 81%, 86%);
+
+    /* or */
+    border: 1px solid hsl(211, 10%, 45%);
+    padding: 10px;
+}
+#secondComment{
+    color: hsl(240, 53%, 30%);
+
+    /* or */
+    background-color: hsl(0, 81%, 86%);
+
+    /* or */
+    border: 1px solid hsl(211, 10%, 45%);
+    padding: 10px;
+}
+#thirdComment{
+    color: hsl(240, 53%, 30%);
+
+    /* or */
+    background-color: hsl(0, 81%, 86%);
+
+    /* or */
+    border: 1px solid hsl(211, 10%, 45%);
+    padding: 10px;
+    margin-left:100px;
+}
+#fourthComment{
+    color: hsl(240, 53%, 30%);
+
+    /* or */
+    background-color: hsl(0, 81%, 86%);
+
+    /* or */
+    border: 1px solid hsl(211, 10%, 45%);
+    padding: 10px;
+    margin-left: 100px;
+}
+.replyBtn{
+    margin-left: 100px;
+    float: right;
+}
+#first{
+    margin-top: 10px;
+}
